@@ -1,0 +1,29 @@
+.cover {
+  display: flex;
+  width: 1125px;
+  height: 613px;
+  margin: 93px auto;
+  box-shadow: 5px 5px 15px gray;
+}
+.cover-content {
+  width: 525px;
+}
+.cover-content h1 {
+  line-height: 90px;
+  font-size: 80px;
+  margin: 10px 30px;
+}
+.cover-content p {
+  margin: 30px;
+}
+.cover-content button {
+  margin: 0 30px;
+ 
+}
+.cover-content img{
+     margin: 0 30px;
+     width: 50px;
+}
+.cover-img {
+  width: 525px;
+}
